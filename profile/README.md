@@ -1,7 +1,7 @@
 <p align="center"><img src="/profile/logo.png"></p>
 
 
-A <a target="_blank" href="https://syngroup.org/">SYN Group</a> é uma organização privada de desenvolvimento de softwares com código fonte-livre.
+A <a target="_blank" href="https://syngroup.org/">SYN Group</a> é uma organização privada de desenvolvimento de softwares com código fonte livre.
 
 
 | Título       | Descrição                                 | Status | Responsável(is)        |
